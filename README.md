@@ -1,1 +1,1 @@
-# Python-Slack-Bot
+# Slack-Bot
